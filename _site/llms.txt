@@ -1,0 +1,13 @@
+# 🤌 At Hand Tools
+
+> Public portfolio and product pages. This file is generated from indexable public pages only.
+
+## Public pages
+
+- [At Hand Tools — apps, at hand](https://athand.tools/): A small collection of independent apps and extensions. Explore the apps from At Hand Tools and find your next useful tool.
+- [Custom browser extension development](https://athand.tools/custom-browser-extension-development/): AtHand designs and builds focused Chrome, Edge, and Firefox extensions for internal workflows and customer-facing products.
+- [Privacy](https://athand.tools/privacy/): Privacy information for the 🤌 At Hand Tools studio website and custom browser-extension inquiries.
+- [Tubuki — Bulk YouTube Transcript Downloader](https://athand.tools/products/youtube-video-playlist-transcript-downloader/): Save available YouTube captions from videos, playlists, and channels as separate files or one merged file.
+- [Tubuki — Bulk YouTube Transcript Downloader privacy](https://athand.tools/products/youtube-video-playlist-transcript-downloader/privacy/): Privacy information for the Tubuki — Bulk YouTube Transcript Downloader Chrome extension.
+- [Tubuki — Bulk YouTube Transcript Downloader support](https://athand.tools/products/youtube-video-playlist-transcript-downloader/support/): Support for the Tubuki — Bulk YouTube Transcript Downloader Chrome extension.
+- [Terms](https://athand.tools/terms/): Terms for using the 🤌 At Hand Tools studio website and discussing custom browser-extension development.
