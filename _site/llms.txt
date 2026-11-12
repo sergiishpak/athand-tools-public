@@ -6,7 +6,6 @@
 
 - [At Hand Tools — apps, at hand](https://athand.tools/): A small collection of independent apps and extensions. Explore the apps from At Hand Tools and find your next useful tool.
 - [Blog | At Hand Tools](https://athand.tools/blog/): Practical guides to browser tools, video research and working with information.
-- [Custom browser extension development](https://athand.tools/custom-browser-extension-development/): AtHand designs and builds focused Chrome, Edge, and Firefox extensions for internal workflows and customer-facing products.
 - [Privacy](https://athand.tools/privacy/): Privacy information for the 🤌 At Hand Tools studio website and custom browser-extension inquiries.
 - [BYTE: Bulk YouTube Transcript Exporter](https://athand.tools/products/youtube-video-playlist-transcript-downloader/): Save available YouTube captions from videos, playlists, and channels as separate files or one merged file.
 - [How to take useful notes from YouTube without transcribing everything](https://athand.tools/products/youtube-video-playlist-transcript-downloader/articles/youtube-notes-without-transcribing-everything/): A practical workflow for keeping source transcripts separate from your own notes, with a reusable Markdown template and checks for missing visual context.
