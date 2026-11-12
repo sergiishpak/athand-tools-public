@@ -9,6 +9,7 @@
 - [Custom browser extension development](https://athand.tools/custom-browser-extension-development/): AtHand designs and builds focused Chrome, Edge, and Firefox extensions for internal workflows and customer-facing products.
 - [Privacy](https://athand.tools/privacy/): Privacy information for the 🤌 At Hand Tools studio website and custom browser-extension inquiries.
 - [BYTE: Bulk YouTube Transcript Exporter](https://athand.tools/products/youtube-video-playlist-transcript-downloader/): Save available YouTube captions from videos, playlists, and channels as separate files or one merged file.
+- [How to take useful notes from YouTube without transcribing everything](https://athand.tools/products/youtube-video-playlist-transcript-downloader/articles/youtube-notes-without-transcribing-everything/): A practical workflow for keeping source transcripts separate from your own notes, with a reusable Markdown template and checks for missing visual context.
 - [BYTE: Bulk YouTube Transcript Exporter privacy](https://athand.tools/products/youtube-video-playlist-transcript-downloader/privacy/): Privacy information for the BYTE: Bulk YouTube Transcript Exporter Chrome extension.
 - [BYTE: Bulk YouTube Transcript Exporter support](https://athand.tools/products/youtube-video-playlist-transcript-downloader/support/): Support for the BYTE: Bulk YouTube Transcript Exporter Chrome extension.
 - [Terms](https://athand.tools/terms/): Terms for using the 🤌 At Hand Tools studio website and discussing custom browser-extension development.
