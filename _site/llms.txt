@@ -8,7 +8,7 @@
 - [Blog | At Hand Tools](https://athand.tools/blog/): Practical guides to browser tools, video research and working with information.
 - [Custom browser extension development](https://athand.tools/custom-browser-extension-development/): AtHand designs and builds focused Chrome, Edge, and Firefox extensions for internal workflows and customer-facing products.
 - [Privacy](https://athand.tools/privacy/): Privacy information for the 🤌 At Hand Tools studio website and custom browser-extension inquiries.
-- [Tubuki — Bulk YouTube Transcript Downloader](https://athand.tools/products/youtube-video-playlist-transcript-downloader/): Save available YouTube captions from videos, playlists, and channels as separate files or one merged file.
-- [Tubuki — Bulk YouTube Transcript Downloader privacy](https://athand.tools/products/youtube-video-playlist-transcript-downloader/privacy/): Privacy information for the Tubuki — Bulk YouTube Transcript Downloader Chrome extension.
-- [Tubuki — Bulk YouTube Transcript Downloader support](https://athand.tools/products/youtube-video-playlist-transcript-downloader/support/): Support for the Tubuki — Bulk YouTube Transcript Downloader Chrome extension.
+- [BYTE: Bulk YouTube Transcript Exporter](https://athand.tools/products/youtube-video-playlist-transcript-downloader/): Save available YouTube captions from videos, playlists, and channels as separate files or one merged file.
+- [BYTE: Bulk YouTube Transcript Exporter privacy](https://athand.tools/products/youtube-video-playlist-transcript-downloader/privacy/): Privacy information for the BYTE: Bulk YouTube Transcript Exporter Chrome extension.
+- [BYTE: Bulk YouTube Transcript Exporter support](https://athand.tools/products/youtube-video-playlist-transcript-downloader/support/): Support for the BYTE: Bulk YouTube Transcript Exporter Chrome extension.
 - [Terms](https://athand.tools/terms/): Terms for using the 🤌 At Hand Tools studio website and discussing custom browser-extension development.
