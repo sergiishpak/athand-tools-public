@@ -3,8 +3,8 @@
 <title>At Hand Tools Blog</title><link>https://athand.tools/blog/</link>
 <description>Practical guides for research and browser workflows.</description><language>en</language>
 <atom:link href="https://athand.tools/blog/rss.xml" rel="self" type="application/rss+xml" />
-    <item><title>How to take useful notes from YouTube without transcribing everything</title><link>https://athand.tools/products/youtube-video-playlist-transcript-downloader/articles/youtube-notes-without-transcribing-everything/</link>
+    <item><title>Use BYTE to export a YouTube transcript and turn it into useful notes</title><link>https://athand.tools/products/youtube-video-playlist-transcript-downloader/articles/youtube-notes-without-transcribing-everything/</link>
     <guid isPermaLink="true">https://athand.tools/products/youtube-video-playlist-transcript-downloader/articles/youtube-notes-without-transcribing-everything/</guid>
-    <description>A practical workflow for keeping source transcripts separate from your own notes, with a reusable Markdown template and checks for missing visual context.</description>
+    <description>Choose Markdown, retain source details and timestamps, export available captions with BYTE, then keep your own notes separate from the transcript.</description>
     <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate></item>
 </channel></rss>
