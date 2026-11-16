@@ -3,6 +3,10 @@
 <title>At Hand Tools Blog</title><link>https://athand.tools/blog/</link>
 <description>Practical guides for research and browser workflows.</description><language>en</language>
 <atom:link href="https://athand.tools/blog/rss.xml" rel="self" type="application/rss+xml" />
+    <item><title>Find a half-remembered YouTube passage with BYTE</title><link>https://athand.tools/products/youtube-video-playlist-transcript-downloader/articles/find-youtube-passage-with-byte/</link>
+    <guid isPermaLink="true">https://athand.tools/products/youtube-video-playlist-transcript-downloader/articles/find-youtube-passage-with-byte/</guid>
+    <description>Export available captions, search a local file, and check the original video. A real example shows why zero exact matches can be misleading.</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate></item>
     <item><title>When NotebookLM cannot import a YouTube link: export captions with BYTE</title><link>https://athand.tools/products/youtube-video-playlist-transcript-downloader/articles/notebooklm-youtube-import-fallback/</link>
     <guid isPermaLink="true">https://athand.tools/products/youtube-video-playlist-transcript-downloader/articles/notebooklm-youtube-import-fallback/</guid>
     <description>Try direct import first. If captions are available, use BYTE to save a Markdown reference, inspect it, and add the file instead. Includes a real export example.</description>
